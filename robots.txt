@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap: httpsspace-waves-online.github.io/sitemap.xml
+Sitemap:https://block-breaker-online.github.io/sitemap.xml
